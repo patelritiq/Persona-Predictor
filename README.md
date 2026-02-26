@@ -71,7 +71,7 @@ Persona Predictor is a computer vision learning project built during college to 
 
 ## Project Structure 📁
 
-For detailed model information, see [PROJECT_STRUCTURE.md](PROJECT_STRUCTURE.md)
+For project structure, see [PROJECT_STRUCTURE.md](PROJECT_STRUCTURE.md)
 
 ---
 
